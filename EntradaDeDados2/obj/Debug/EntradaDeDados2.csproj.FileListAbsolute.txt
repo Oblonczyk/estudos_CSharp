@@ -1,0 +1,7 @@
+C:\cursos\C#\EntradaDeDados2\bin\Debug\EntradaDeDados2.exe.config
+C:\cursos\C#\EntradaDeDados2\bin\Debug\EntradaDeDados2.exe
+C:\cursos\C#\EntradaDeDados2\bin\Debug\EntradaDeDados2.pdb
+C:\cursos\C#\EntradaDeDados2\obj\Debug\EntradaDeDados2.csproj.AssemblyReference.cache
+C:\cursos\C#\EntradaDeDados2\obj\Debug\EntradaDeDados2.csproj.CoreCompileInputs.cache
+C:\cursos\C#\EntradaDeDados2\obj\Debug\EntradaDeDados2.exe
+C:\cursos\C#\EntradaDeDados2\obj\Debug\EntradaDeDados2.pdb

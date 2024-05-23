@@ -1,0 +1,7 @@
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe.config
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\bin\Debug\EstruturaCondicional.pdb
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\obj\Debug\EstruturaCondicional.exe
+C:\cursos\C#\EXERCICIOS\EstruturaCondicional\obj\Debug\EstruturaCondicional.pdb

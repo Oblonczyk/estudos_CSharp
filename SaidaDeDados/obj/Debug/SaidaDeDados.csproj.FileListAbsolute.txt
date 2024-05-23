@@ -1,0 +1,7 @@
+C:\cursos\C#\SaidaDeDados\bin\Debug\SaidaDeDados.exe.config
+C:\cursos\C#\SaidaDeDados\bin\Debug\SaidaDeDados.exe
+C:\cursos\C#\SaidaDeDados\bin\Debug\SaidaDeDados.pdb
+C:\cursos\C#\SaidaDeDados\obj\Debug\SaidaDeDados.csproj.AssemblyReference.cache
+C:\cursos\C#\SaidaDeDados\obj\Debug\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\cursos\C#\SaidaDeDados\obj\Debug\SaidaDeDados.exe
+C:\cursos\C#\SaidaDeDados\obj\Debug\SaidaDeDados.pdb

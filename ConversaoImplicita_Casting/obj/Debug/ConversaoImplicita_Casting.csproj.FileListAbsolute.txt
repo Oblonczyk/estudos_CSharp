@@ -1,0 +1,7 @@
+C:\cursos\C#\ConversaoImplicita_Casting\bin\Debug\ConversaoImplicita_Casting.exe.config
+C:\cursos\C#\ConversaoImplicita_Casting\bin\Debug\ConversaoImplicita_Casting.exe
+C:\cursos\C#\ConversaoImplicita_Casting\bin\Debug\ConversaoImplicita_Casting.pdb
+C:\cursos\C#\ConversaoImplicita_Casting\obj\Debug\ConversaoImplicita_Casting.csproj.AssemblyReference.cache
+C:\cursos\C#\ConversaoImplicita_Casting\obj\Debug\ConversaoImplicita_Casting.csproj.CoreCompileInputs.cache
+C:\cursos\C#\ConversaoImplicita_Casting\obj\Debug\ConversaoImplicita_Casting.exe
+C:\cursos\C#\ConversaoImplicita_Casting\obj\Debug\ConversaoImplicita_Casting.pdb

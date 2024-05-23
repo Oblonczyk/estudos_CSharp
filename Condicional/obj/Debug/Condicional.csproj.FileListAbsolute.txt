@@ -1,0 +1,7 @@
+C:\cursos\C#\Condicional\bin\Debug\Condicional.exe.config
+C:\cursos\C#\Condicional\bin\Debug\Condicional.exe
+C:\cursos\C#\Condicional\bin\Debug\Condicional.pdb
+C:\cursos\C#\Condicional\obj\Debug\Condicional.csproj.AssemblyReference.cache
+C:\cursos\C#\Condicional\obj\Debug\Condicional.csproj.CoreCompileInputs.cache
+C:\cursos\C#\Condicional\obj\Debug\Condicional.exe
+C:\cursos\C#\Condicional\obj\Debug\Condicional.pdb

@@ -1,0 +1,7 @@
+C:\cursos\C#\EstruturaRepetitiva\bin\Debug\EstruturaRepetitiva.exe.config
+C:\cursos\C#\EstruturaRepetitiva\bin\Debug\EstruturaRepetitiva.exe
+C:\cursos\C#\EstruturaRepetitiva\bin\Debug\EstruturaRepetitiva.pdb
+C:\cursos\C#\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.csproj.AssemblyReference.cache
+C:\cursos\C#\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.csproj.CoreCompileInputs.cache
+C:\cursos\C#\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.exe
+C:\cursos\C#\EstruturaRepetitiva\obj\Debug\EstruturaRepetitiva.pdb

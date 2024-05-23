@@ -1,0 +1,7 @@
+C:\cursos\C#\EXERCICIOS\IntroPOO\bin\Debug\IntroPOO.exe.config
+C:\cursos\C#\EXERCICIOS\IntroPOO\bin\Debug\IntroPOO.exe
+C:\cursos\C#\EXERCICIOS\IntroPOO\bin\Debug\IntroPOO.pdb
+C:\cursos\C#\EXERCICIOS\IntroPOO\obj\Debug\IntroPOO.csproj.AssemblyReference.cache
+C:\cursos\C#\EXERCICIOS\IntroPOO\obj\Debug\IntroPOO.csproj.CoreCompileInputs.cache
+C:\cursos\C#\EXERCICIOS\IntroPOO\obj\Debug\IntroPOO.exe
+C:\cursos\C#\EXERCICIOS\IntroPOO\obj\Debug\IntroPOO.pdb

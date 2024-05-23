@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cursos\\C#\\EXERCICIOS\\EstruturaCondicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C6E5A0-AEF3-4A63-AA63-1770BFA2D0B2}|EstruturaCondicional.csproj|c:\\cursos\\c#\\exercicios\\estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C6E5A0-AEF3-4A63-AA63-1770BFA2D0B2}|EstruturaCondicional.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\cursos\\C#\\EXERCICIOS\\EstruturaCondicional\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\cursos\\C#\\EXERCICIOS\\EstruturaCondicional\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:26:45.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\bin\Debug\EstruturaSequencial.exe.config
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\bin\Debug\EstruturaSequencial.exe
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\bin\Debug\EstruturaSequencial.pdb
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\obj\Debug\EstruturaSequencial.csproj.AssemblyReference.cache
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\obj\Debug\EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\obj\Debug\EstruturaSequencial.exe
+C:\cursos\C#\EXERCICIOS\EstruturaSequencial\obj\Debug\EstruturaSequencial.pdb
