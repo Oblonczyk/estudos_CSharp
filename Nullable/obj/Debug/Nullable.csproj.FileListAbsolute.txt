@@ -1,0 +1,7 @@
+C:\cursos\C#\Nullable\bin\Debug\Nullable.exe.config
+C:\cursos\C#\Nullable\bin\Debug\Nullable.exe
+C:\cursos\C#\Nullable\bin\Debug\Nullable.pdb
+C:\cursos\C#\Nullable\obj\Debug\Nullable.csproj.AssemblyReference.cache
+C:\cursos\C#\Nullable\obj\Debug\Nullable.csproj.CoreCompileInputs.cache
+C:\cursos\C#\Nullable\obj\Debug\Nullable.exe
+C:\cursos\C#\Nullable\obj\Debug\Nullable.pdb

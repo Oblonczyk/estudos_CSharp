@@ -1,0 +1,7 @@
+C:\cursos\C#\ReferenciaValor\bin\Debug\ReferenciaValor.exe.config
+C:\cursos\C#\ReferenciaValor\bin\Debug\ReferenciaValor.exe
+C:\cursos\C#\ReferenciaValor\bin\Debug\ReferenciaValor.pdb
+C:\cursos\C#\ReferenciaValor\obj\Debug\ReferenciaValor.csproj.AssemblyReference.cache
+C:\cursos\C#\ReferenciaValor\obj\Debug\ReferenciaValor.csproj.CoreCompileInputs.cache
+C:\cursos\C#\ReferenciaValor\obj\Debug\ReferenciaValor.exe
+C:\cursos\C#\ReferenciaValor\obj\Debug\ReferenciaValor.pdb

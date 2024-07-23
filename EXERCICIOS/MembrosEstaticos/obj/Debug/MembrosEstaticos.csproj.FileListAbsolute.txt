@@ -1,0 +1,7 @@
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\bin\Debug\MembrosEstaticos.exe.config
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\bin\Debug\MembrosEstaticos.exe
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\bin\Debug\MembrosEstaticos.pdb
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\obj\Debug\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\obj\Debug\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\obj\Debug\MembrosEstaticos.exe
+C:\cursos\C#\EXERCICIOS\MembrosEstaticos\obj\Debug\MembrosEstaticos.pdb

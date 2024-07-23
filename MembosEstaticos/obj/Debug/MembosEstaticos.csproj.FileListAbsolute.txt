@@ -1,0 +1,7 @@
+C:\cursos\C#\MembosEstaticos\bin\Debug\MembosEstaticos.exe.config
+C:\cursos\C#\MembosEstaticos\bin\Debug\MembosEstaticos.exe
+C:\cursos\C#\MembosEstaticos\bin\Debug\MembosEstaticos.pdb
+C:\cursos\C#\MembosEstaticos\obj\Debug\MembosEstaticos.csproj.AssemblyReference.cache
+C:\cursos\C#\MembosEstaticos\obj\Debug\MembosEstaticos.csproj.CoreCompileInputs.cache
+C:\cursos\C#\MembosEstaticos\obj\Debug\MembosEstaticos.exe
+C:\cursos\C#\MembosEstaticos\obj\Debug\MembosEstaticos.pdb
